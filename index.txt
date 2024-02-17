@@ -1,0 +1,10 @@
+# How to contribute on someones project
+- Fork someones project
+- copy the https link
+- git clone the project on your computer
+- create a new branch
+- switch to new branch
+- git add
+- git commit
+- git push
+- create pull request
